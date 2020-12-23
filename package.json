@@ -1,0 +1,18 @@
+{
+  "name": "only-ramda-challenge",
+  "version": "1.0.0",
+  "description": "handle data using only ramda functions",
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Maksym Haltsev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maksymHalt/only-ramda-challenge.git"
+  }
+}
